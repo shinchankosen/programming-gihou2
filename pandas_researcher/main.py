@@ -28,3 +28,4 @@ def main():
     print(f"割合: {MAX}")
 
 if __name__ == "__main__":
+    main()
